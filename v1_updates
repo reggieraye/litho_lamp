@@ -2,13 +2,26 @@
 LID
 -extend down
 
-
 BASE
 -setting updates for mahogany
-
 
 SHADE
 -beef up base perimeter for warp prevention
 -make litho channels deeper
 -raise height of lower lip
 -increase extrusion temp (215 for black, 210 for white)
+
+
+5/28 to-dos
+-lid
+-base
+-make new lithos for aunt
+
+
+PRINT ORDER
+Biqu
+-shade perim in mahog
+
+Tenlog
+-dual test
+-whole shade
